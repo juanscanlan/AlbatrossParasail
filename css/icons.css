@@ -1,0 +1,19 @@
+.whyus {
+    padding: 15px 15px 10px;
+}
+
+.icons {
+    float: left;
+    width: 5em;
+    height: auto;
+    padding: 10px;
+}
+
+.whyustext {
+    padding: 0 15px;
+    overflow: hidden;
+}
+
+.whyusdescription {
+    font-size: small;
+}
